@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5BAA02D9-CE3C-4CBF-9C03-789C0CBA379E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppointmentScheduler/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="AppointmentScheduler/Controllers/AccountController.cs" Line="15" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppointmentScheduler" expanded="True">
+            <Node name="AppointmentScheduler" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AccountController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppointmentScheduler PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
