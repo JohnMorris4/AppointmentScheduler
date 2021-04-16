@@ -79,4 +79,8 @@
       <_ContentIncludedByDefault Remove="wwwroot\lib\select2\dist\js\select2.min.js" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Services\Services.csproj" />
+    </ItemGroup>
+
 </Project>
