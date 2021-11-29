@@ -2,7 +2,6 @@
 /Users/johnmorris/Practice/AppointmentScheduler/Services/bin/Debug/net5.0/Services.dll
 /Users/johnmorris/Practice/AppointmentScheduler/Services/bin/Debug/net5.0/ref/Services.dll
 /Users/johnmorris/Practice/AppointmentScheduler/Services/bin/Debug/net5.0/Services.pdb
-/Users/johnmorris/Practice/AppointmentScheduler/Services/obj/Debug/net5.0/Services.csprojAssemblyReference.cache
 /Users/johnmorris/Practice/AppointmentScheduler/Services/obj/Debug/net5.0/Services.GeneratedMSBuildEditorConfig.editorconfig
 /Users/johnmorris/Practice/AppointmentScheduler/Services/obj/Debug/net5.0/Services.AssemblyInfoInputs.cache
 /Users/johnmorris/Practice/AppointmentScheduler/Services/obj/Debug/net5.0/Services.AssemblyInfo.cs
@@ -10,3 +9,4 @@
 /Users/johnmorris/Practice/AppointmentScheduler/Services/obj/Debug/net5.0/Services.dll
 /Users/johnmorris/Practice/AppointmentScheduler/Services/obj/Debug/net5.0/ref/Services.dll
 /Users/johnmorris/Practice/AppointmentScheduler/Services/obj/Debug/net5.0/Services.pdb
+/Users/johnmorris/Practice/AppointmentScheduler/Services/obj/Debug/net5.0/Services.csproj.AssemblyReference.cache
